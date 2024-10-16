@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59b56df3-fe4b-42d5-842f-cb9ee3638e4c" name="Changes" comment="Creating the script">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="59b56df3-fe4b-42d5-842f-cb9ee3638e4c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729082707477</updated>
       <workItem from="1729082709591" duration="1223000" />
-      <workItem from="1729084045075" duration="414000" />
+      <workItem from="1729084045075" duration="581000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the script">
       <option name="closed" value="true" />
@@ -155,6 +153,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Creating the script" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1729084413467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/New_Raph_Load_Flow$main.coverage" NAME="main Coverage Results" MODIFIED="1729083179626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
